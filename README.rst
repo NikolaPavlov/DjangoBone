@@ -5,9 +5,11 @@ DjangoBone
 
 Stack:
 ******
+- pipenv
+-
 - Django==2.1.7
 - Sphinx==1.8.4
-- Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. http://django-environ.readthedocs.org
+- django-environ==0.4.5 `Django-environ Docs <https://django-environ.readthedocs.io/en/latest/>`_
 
 How to use this template?
 *************************
